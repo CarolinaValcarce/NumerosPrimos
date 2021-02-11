@@ -1,0 +1,16 @@
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\NUMEROSPRIMOS.exe
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\NUMEROSPRIMOS.deps.json
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\NUMEROSPRIMOS.runtimeconfig.json
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\NUMEROSPRIMOS.runtimeconfig.dev.json
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\NUMEROSPRIMOS.dll
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\ref\NUMEROSPRIMOS.dll
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\bin\Debug\net5.0\NUMEROSPRIMOS.pdb
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.csprojAssemblyReference.cache
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.AssemblyInfoInputs.cache
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.AssemblyInfo.cs
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.csproj.CoreCompileInputs.cache
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.dll
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\ref\NUMEROSPRIMOS.dll
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.pdb
+C:\Users\Willy\Documents\C#\NUMEROSPRIMOS\obj\Debug\net5.0\NUMEROSPRIMOS.genruntimeconfig.cache

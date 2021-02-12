@@ -49,9 +49,10 @@ namespace NUMEROSPRIMOS
                 }
             }
             //Metemos un salto de línea por cada fila nueva
-            if (x != 9) teclado += "/n";
+            if (x != 9) teclado += "\n";
         }
         //Imprimimos la variable teclado para que sea la matriz y ponemos un Console.ReadLine () para que se quede esperando y ver el resultado.
+        Console.Write(teclado);
         Console.ReadLine();
         }
     }
